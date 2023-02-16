@@ -39,11 +39,7 @@ function App() {
   );
 }
 
-const mapStateToProps = (state) => {
-  return {
-    count: state.counter.value,
-  };
-};
+
 
 export default App
 
